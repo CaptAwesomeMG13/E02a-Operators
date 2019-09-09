@@ -1,16 +1,6 @@
 # E02a-Operators
 An exercise exploring python operators and data types
 
-This repository contains a few files that you will need to alter to complete the assignment. The instructions for the exercise are also on Canvas.
-
-Comments in Python are marked by a # sign (for single-line comments) or three matching quotation marks (''' or """) if a comment requires more than one line. They should also appear in a different color in VS Code. The Python Interpreter ignores comments, so you can safely include any information you want there.
-
-As with your assignments, please edit the LICENSE file (replace the [year] [fullname] with the current year and your name); you will also be expected to edit README.md (this file) to describe what you have accomplished.
-
----
-
-As always, Fork this repository, and then Clone it to your local computer.
-
 For this exercise, you will need to edit main.py. The file is broken into many functions (def blocks), each of which is designed to perform a basic operation. Many of these are arithmetic, some work with lists or strings, and others produce random values.
 
 To help you along, I have implemented the add function. Also, here are a few online resources that might be useful:
@@ -32,3 +22,4 @@ The grading criteria will be as follows:
 * [8] Accomplishes the objective of the exercise
 
 10 points total
+
