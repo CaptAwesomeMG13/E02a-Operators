@@ -23,3 +23,10 @@ The grading criteria will be as follows:
 
 10 points total
 
+This project uses lots of different operation to get the correct answer of the problems.
+Most of these were fairly straight forward until it got to the lists section. This is
+the section I had the most issues with and could not even get all of them working. The
+last ones has truly stumped me have tried a lot to get them to work yet nothing goes through.
+All of the other parts should be good and I am a little familiar with the random class.
+I hope to see the correct ways of how to finish off the lists because right now they are 
+really stumping me. Thank you and hope you enjoyed the rest of the project.
